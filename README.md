@@ -1,3 +1,6 @@
+# Finished Domain Name Generator Project!
+# https://github.com/Kriss1205/DomainGenerator.git
+
 # Hello World with Vanilla JS
 
 Start coding in 30 seconds by opening this template in gitpod:
